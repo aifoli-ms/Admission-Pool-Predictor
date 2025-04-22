@@ -2,7 +2,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 1,Female,False,3.3,Business,Asian,620.0,3.0,Financial Services,Admit
 3,Female,True,3.3,Business,International,710.0,5.0,Technology,Admit
 7,Female,False,2.93,STEM,International,590.0,3.0,Technology,Admit
-13,Female,False,3.24,Humanities,Hispanic,640.0,6.0,PE/VC,Waitlist
+13,Female,False,3.24,Humanities,Hispanic,640.0,6.0,PE/VC,Admit
 15,Female,False,3.03,STEM,White,600.0,5.0,Technology,Admit
 16,Female,True,3.05,Humanities,International,710.0,4.0,Consulting,Admit
 17,Female,False,3.32,Business,Asian,710.0,5.0,PE/VC,Admit
@@ -18,18 +18,18 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 42,Female,True,3.41,Business,International,600.0,7.0,Nonprofit/Gov,Admit
 44,Female,False,2.93,Humanities,International,590.0,4.0,Consulting,Admit
 48,Male,False,3.33,STEM,Hispanic,720.0,7.0,Consulting,Admit
-51,Male,False,3.26,Business,White,670.0,6.0,Consulting,Waitlist
+51,Male,False,3.26,Business,White,670.0,6.0,Consulting,Admit
 54,Female,False,3.23,STEM,Asian,700.0,6.0,PE/VC,Admit
 58,Female,True,3.05,Business,International,650.0,7.0,Health Care,Admit
 61,Female,False,3.27,Business,White,670.0,5.0,Consulting,Admit
 63,Female,True,3.0,STEM,International,640.0,3.0,Financial Services,Admit
 65,Female,False,3.39,Humanities,White,680.0,5.0,Investment Banking,Admit
 70,Male,False,3.41,Humanities,White,690.0,6.0,Technology,Admit
-72,Female,False,3.33,Humanities,Hispanic,680.0,5.0,Consulting,Waitlist
+72,Female,False,3.33,Humanities,Hispanic,680.0,5.0,Consulting,Admit
 73,Female,True,3.34,STEM,International,680.0,5.0,PE/VC,Admit
 74,Female,True,2.89,Humanities,International,670.0,5.0,Consulting,Admit
 75,Female,True,3.35,Business,International,640.0,5.0,PE/VC,Admit
-76,Female,False,3.24,Humanities,Hispanic,590.0,4.0,Nonprofit/Gov,Waitlist
+76,Female,False,3.24,Humanities,Hispanic,590.0,4.0,Nonprofit/Gov,Admit
 80,Female,False,3.1,STEM,Asian,680.0,4.0,Health Care,Admit
 84,Female,False,3.35,Humanities,White,710.0,6.0,Consulting,Admit
 88,Male,False,3.48,Business,White,710.0,5.0,Consulting,Admit
@@ -142,38 +142,38 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 408,Female,False,3.06,Business,White,610.0,6.0,Nonprofit/Gov,Admit
 412,Female,False,3.29,Business,White,600.0,5.0,Consulting,Admit
 413,Female,False,3.18,Humanities,Asian,630.0,4.0,PE/VC,Admit
-416,Female,False,3.13,Humanities,Asian,670.0,4.0,Technology,Waitlist
-418,Female,False,3.07,STEM,Asian,630.0,5.0,Technology,Waitlist
+416,Female,False,3.13,Humanities,Asian,670.0,4.0,Technology,Admit
+418,Female,False,3.07,STEM,Asian,630.0,5.0,Technology,Admit
 426,Female,True,3.0,Humanities,International,630.0,5.0,Consulting,Admit
 434,Male,True,3.54,Business,International,690.0,4.0,PE/VC,Admit
-435,Female,False,3.19,STEM,Asian,690.0,5.0,Health Care,Waitlist
+435,Female,False,3.19,STEM,Asian,690.0,5.0,Health Care,Admit
 437,Female,False,3.43,Humanities,White,770.0,5.0,Consulting,Admit
-438,Female,False,3.12,Humanities,Asian,600.0,3.0,Technology,Waitlist
+438,Female,False,3.12,Humanities,Asian,600.0,3.0,Technology,Admit
 441,Female,False,3.46,STEM,White,680.0,7.0,PE/VC,Admit
 443,Female,False,3.25,STEM,White,620.0,4.0,Technology,Admit
 445,Female,False,3.18,Humanities,White,570.0,5.0,Other,Admit
 459,Female,False,3.17,Business,International,660.0,6.0,Technology,Admit
 460,Male,False,3.4,Business,Asian,680.0,5.0,Consulting,Admit
-461,Female,False,3.35,Humanities,Asian,660.0,3.0,PE/VC,Waitlist
+461,Female,False,3.35,Humanities,Asian,660.0,3.0,PE/VC,Admit
 465,Female,False,3.06,STEM,White,590.0,6.0,Consulting,Admit
-466,Female,False,3.37,Humanities,Asian,640.0,4.0,Health Care,Waitlist
-468,Female,False,3.19,Humanities,Asian,660.0,4.0,Health Care,Waitlist
+466,Female,False,3.37,Humanities,Asian,640.0,4.0,Health Care,Admit
+468,Female,False,3.19,Humanities,Asian,660.0,4.0,Health Care,Admit
 469,Female,False,3.36,Humanities,Asian,670.0,4.0,Other,Admit
 470,Female,False,3.22,Humanities,White,670.0,6.0,Technology,Admit
 471,Male,False,3.37,Humanities,Hispanic,720.0,6.0,Nonprofit/Gov,Admit
 473,Male,False,3.48,Business,Black,690.0,5.0,Investment Banking,Admit
 474,Female,False,3.34,STEM,International,680.0,5.0,Technology,Admit
-476,Female,False,3.1,Business,Asian,640.0,6.0,Consulting,Waitlist
+476,Female,False,3.1,Business,Asian,640.0,6.0,Consulting,Admit
 482,Female,True,3.21,STEM,International,590.0,6.0,PE/VC,Admit
 483,Female,True,3.28,Business,International,600.0,6.0,Consulting,Admit
 484,Female,False,3.27,Business,International,580.0,5.0,Financial Services,Admit
 485,Female,True,3.2,STEM,International,610.0,5.0,Other,Admit
 494,Female,True,3.18,STEM,International,620.0,4.0,Nonprofit/Gov,Admit
 498,Male,False,3.42,Business,White,720.0,3.0,PE/VC,Admit
-503,Female,False,3.55,Business,Asian,640.0,6.0,Other,Waitlist
+503,Female,False,3.55,Business,Asian,640.0,6.0,Other,Admit
 507,Female,False,3.33,STEM,White,660.0,5.0,Technology,Admit
-508,Female,False,3.28,Humanities,Asian,690.0,4.0,Technology,Waitlist
-511,Female,False,3.51,STEM,Asian,780.0,5.0,PE/VC,Waitlist
+508,Female,False,3.28,Humanities,Asian,690.0,4.0,Technology,Admit
+511,Female,False,3.51,STEM,Asian,780.0,5.0,PE/VC,Admit
 512,Female,True,3.47,Business,International,650.0,4.0,Investment Banking,Admit
 518,Female,True,3.23,Humanities,International,630.0,6.0,Consulting,Admit
 528,Female,False,3.03,STEM,White,600.0,5.0,Financial Services,Admit
@@ -184,12 +184,12 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 535,Female,False,3.35,Humanities,White,720.0,5.0,Investment Banking,Admit
 541,Female,True,3.16,Humanities,International,690.0,4.0,Consulting,Admit
 548,Female,False,3.5,Humanities,White,680.0,6.0,Consulting,Admit
-551,Female,False,3.33,Business,White,630.0,5.0,Consulting,Waitlist
-553,Female,False,3.35,Humanities,White,640.0,5.0,Investment Banking,Waitlist
+551,Female,False,3.33,Business,White,630.0,5.0,Consulting,Admit
+553,Female,False,3.35,Humanities,White,640.0,5.0,Investment Banking,Admit
 556,Female,True,3.23,Business,International,680.0,4.0,Investment Banking,Admit
 558,Female,True,3.04,Business,International,620.0,6.0,Nonprofit/Gov,Admit
 564,Female,True,3.36,STEM,International,690.0,5.0,Other,Admit
-574,Female,False,3.16,Business,White,630.0,4.0,Consulting,Waitlist
+574,Female,False,3.16,Business,White,630.0,4.0,Consulting,Admit
 576,Female,True,3.17,Humanities,International,630.0,6.0,Other,Admit
 579,Male,False,3.46,Business,Hispanic,660.0,6.0,Technology,Admit
 581,Male,False,3.32,Business,White,720.0,4.0,Nonprofit/Gov,Admit
@@ -200,7 +200,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 593,Male,False,3.44,Business,White,660.0,6.0,Consulting,Admit
 594,Female,True,3.19,STEM,International,700.0,5.0,Consulting,Admit
 601,Female,True,3.24,STEM,International,660.0,5.0,Other,Admit
-602,Female,False,2.98,STEM,White,640.0,3.0,Other,Waitlist
+602,Female,False,2.98,STEM,White,640.0,3.0,Other,Admit
 604,Female,False,3.31,STEM,Black,720.0,7.0,Technology,Admit
 607,Female,True,3.0,Business,International,630.0,3.0,Consulting,Admit
 610,Female,False,3.69,STEM,Asian,780.0,6.0,Nonprofit/Gov,Admit
@@ -219,70 +219,70 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 663,Female,True,3.23,STEM,International,650.0,4.0,Financial Services,Admit
 665,Male,True,3.32,STEM,International,710.0,5.0,Financial Services,Admit
 666,Female,True,3.11,STEM,International,650.0,4.0,Technology,Admit
-667,Female,True,3.21,STEM,International,630.0,4.0,PE/VC,Waitlist
+667,Female,True,3.21,STEM,International,630.0,4.0,PE/VC,Admit
 672,Male,False,3.65,STEM,Hispanic,710.0,6.0,Financial Services,Admit
 676,Male,False,3.22,STEM,Hispanic,690.0,3.0,Other,Admit
-678,Female,False,3.45,Humanities,White,690.0,4.0,Consulting,Waitlist
+678,Female,False,3.45,Humanities,White,690.0,4.0,Consulting,Admit
 679,Female,True,3.26,STEM,International,700.0,3.0,Other,Admit
-681,Female,True,3.34,STEM,International,700.0,5.0,Consulting,Waitlist
+681,Female,True,3.34,STEM,International,700.0,5.0,Consulting,Admit
 682,Male,False,3.26,Business,White,740.0,6.0,Consulting,Admit
 685,Male,False,3.34,Business,White,680.0,5.0,Financial Services,Admit
 686,Female,False,3.58,Business,International,780.0,5.0,Technology,Admit
-697,Female,False,3.36,Humanities,White,640.0,5.0,PE/VC,Waitlist
+697,Female,False,3.36,Humanities,White,640.0,5.0,PE/VC,Admit
 704,Female,False,3.28,Humanities,International,650.0,6.0,PE/VC,Admit
-709,Male,True,3.52,Business,International,660.0,3.0,Consulting,Waitlist
-710,Female,False,3.2,Humanities,White,640.0,6.0,Consulting,Waitlist
+709,Male,True,3.52,Business,International,660.0,3.0,Consulting,Admit
+710,Female,False,3.2,Humanities,White,640.0,6.0,Consulting,Admit
 712,Female,False,3.51,Humanities,International,690.0,4.0,Consulting,Admit
-717,Female,False,3.44,STEM,White,650.0,3.0,Consulting,Waitlist
+717,Female,False,3.44,STEM,White,650.0,3.0,Consulting,Admit
 719,Male,False,3.26,STEM,Asian,690.0,4.0,Technology,Admit
 722,Male,False,3.26,STEM,Asian,710.0,6.0,Other,Admit
-729,Female,True,3.32,STEM,International,640.0,6.0,Consulting,Waitlist
-732,Female,True,3.42,Business,International,690.0,6.0,Financial Services,Waitlist
-733,Female,False,3.37,Business,White,710.0,5.0,Consulting,Waitlist
+729,Female,True,3.32,STEM,International,640.0,6.0,Consulting,Admit
+732,Female,True,3.42,Business,International,690.0,6.0,Financial Services,Admit
+733,Female,False,3.37,Business,White,710.0,5.0,Consulting,Admit
 747,Female,True,3.29,Humanities,International,710.0,4.0,Investment Banking,Admit
 748,Male,True,3.31,Humanities,International,670.0,4.0,Other,Admit
 749,Male,False,3.37,Humanities,White,700.0,4.0,Consulting,Admit
-751,Male,False,3.29,STEM,Hispanic,750.0,6.0,PE/VC,Waitlist
+751,Male,False,3.29,STEM,Hispanic,750.0,6.0,PE/VC,Admit
 753,Male,True,3.63,Business,International,700.0,6.0,Technology,Admit
 754,Male,True,3.24,Humanities,International,670.0,5.0,Other,Admit
 756,Female,False,3.45,Business,Asian,700.0,5.0,Other,Admit
-761,Female,True,3.41,Humanities,International,690.0,5.0,Consulting,Waitlist
+761,Female,True,3.41,Humanities,International,690.0,5.0,Consulting,Admit
 765,Male,False,3.35,Humanities,Black,720.0,7.0,Consulting,Admit
-767,Female,True,3.65,Humanities,International,630.0,6.0,Consulting,Waitlist
-771,Female,False,3.07,Humanities,White,620.0,6.0,Health Care,Waitlist
-773,Female,True,2.9,STEM,International,650.0,5.0,Technology,Waitlist
-780,Male,True,3.51,STEM,International,700.0,5.0,Investment Banking,Waitlist
+767,Female,True,3.65,Humanities,International,630.0,6.0,Consulting,Admit
+771,Female,False,3.07,Humanities,White,620.0,6.0,Health Care,Admit
+773,Female,True,2.9,STEM,International,650.0,5.0,Technology,Admit
+780,Male,True,3.51,STEM,International,700.0,5.0,Investment Banking,Admit
 782,Male,False,3.49,STEM,Black,690.0,6.0,Investment Banking,Admit
-786,Female,True,3.36,STEM,International,620.0,6.0,Nonprofit/Gov,Waitlist
+786,Female,True,3.36,STEM,International,620.0,6.0,Nonprofit/Gov,Admit
 787,Female,False,3.26,Humanities,White,740.0,4.0,Health Care,Admit
-790,Female,True,3.24,Humanities,International,640.0,5.0,Nonprofit/Gov,Waitlist
+790,Female,True,3.24,Humanities,International,640.0,5.0,Nonprofit/Gov,Admit
 795,Male,False,3.33,STEM,Asian,690.0,4.0,Financial Services,Admit
 803,Male,True,3.45,Business,International,680.0,5.0,Financial Services,Admit
 807,Female,False,3.26,Business,White,710.0,5.0,Investment Banking,Admit
-813,Female,False,3.41,STEM,White,670.0,4.0,PE/VC,Waitlist
-819,Female,True,3.41,Business,International,720.0,4.0,Financial Services,Waitlist
-820,Female,True,3.17,Business,International,620.0,5.0,Other,Waitlist
+813,Female,False,3.41,STEM,White,670.0,4.0,PE/VC,Admit
+819,Female,True,3.41,Business,International,720.0,4.0,Financial Services,Admit
+820,Female,True,3.17,Business,International,620.0,5.0,Other,Admit
 823,Male,True,3.26,Business,International,680.0,7.0,Consulting,Admit
-825,Female,False,3.28,Humanities,White,610.0,5.0,Other,Waitlist
+825,Female,False,3.28,Humanities,White,610.0,5.0,Other,Admit
 829,Male,False,3.58,STEM,Black,740.0,4.0,Health Care,Admit
-840,Female,True,3.13,STEM,International,630.0,6.0,Investment Banking,Waitlist
+840,Female,True,3.13,STEM,International,630.0,6.0,Investment Banking,Admit
 844,Male,True,3.3,STEM,International,660.0,3.0,Nonprofit/Gov,Admit
 845,Female,False,3.39,Business,Hispanic,670.0,6.0,PE/VC,Admit
-847,Female,True,3.1,Humanities,International,600.0,4.0,Consulting,Waitlist
+847,Female,True,3.1,Humanities,International,600.0,4.0,Consulting,Admit
 851,Male,False,3.28,STEM,White,710.0,5.0,Technology,Admit
-853,Female,True,3.1,STEM,International,580.0,5.0,Other,Waitlist
+853,Female,True,3.1,STEM,International,580.0,5.0,Other,Admit
 854,Female,True,3.23,Humanities,International,690.0,5.0,Health Care,Admit
 855,Male,True,3.32,Business,International,700.0,5.0,Investment Banking,Admit
 859,Female,False,3.45,STEM,Hispanic,710.0,4.0,Health Care,Admit
-862,Female,False,3.03,STEM,White,640.0,5.0,Other,Waitlist
-864,Female,True,3.27,Humanities,International,680.0,7.0,Other,Waitlist
+862,Female,False,3.03,STEM,White,640.0,5.0,Other,Admit
+864,Female,True,3.27,Humanities,International,680.0,7.0,Other,Admit
 868,Male,False,3.52,STEM,Asian,710.0,5.0,Other,Admit
 872,Male,False,3.44,Humanities,Asian,720.0,5.0,Consulting,Admit
-880,Male,False,3.28,STEM,White,670.0,5.0,PE/VC,Waitlist
+880,Male,False,3.28,STEM,White,670.0,5.0,PE/VC,Admit
 882,Male,True,3.41,Business,International,710.0,7.0,PE/VC,Admit
 886,Male,False,3.33,Business,Asian,700.0,5.0,Consulting,Admit
 887,Female,False,3.3,Humanities,Asian,690.0,7.0,Consulting,Admit
-896,Male,True,3.32,Humanities,International,660.0,7.0,Health Care,Waitlist
+896,Male,True,3.32,Humanities,International,660.0,7.0,Health Care,Admit
 897,Male,False,3.29,Humanities,Hispanic,760.0,5.0,Technology,Admit
 904,Female,False,3.34,Humanities,Asian,660.0,6.0,Other,Admit
 905,Female,False,3.23,Humanities,White,710.0,6.0,PE/VC,Admit
@@ -301,12 +301,12 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 975,Female,True,3.5,Humanities,International,750.0,5.0,Financial Services,Admit
 990,Female,False,3.2,Humanities,International,660.0,6.0,PE/VC,Admit
 995,Female,False,3.46,Business,White,710.0,5.0,PE/VC,Admit
-1000,Female,False,3.19,Humanities,International,640.0,6.0,Consulting,Waitlist
+1000,Female,False,3.19,Humanities,International,640.0,6.0,Consulting,Admit
 1009,Male,False,3.41,Humanities,Asian,690.0,6.0,PE/VC,Admit
 1017,Female,False,3.45,Humanities,Asian,710.0,7.0,Other,Admit
 1018,Male,True,3.26,Humanities,International,690.0,5.0,Consulting,Admit
 1021,Female,True,3.25,Humanities,International,670.0,3.0,Consulting,Admit
-1022,Female,False,3.24,Business,International,650.0,4.0,Consulting,Waitlist
+1022,Female,False,3.24,Business,International,650.0,4.0,Consulting,Admit
 1029,Male,False,3.51,Humanities,White,710.0,6.0,Investment Banking,Admit
 1033,Male,False,3.32,STEM,Black,700.0,5.0,Technology,Admit
 1035,Male,False,3.44,Humanities,International,710.0,7.0,Other,Admit
@@ -328,16 +328,16 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 1142,Female,True,3.29,Humanities,International,690.0,5.0,PE/VC,Admit
 1147,Female,False,3.39,STEM,Asian,700.0,4.0,Investment Banking,Admit
 1149,Male,True,3.4,STEM,International,750.0,4.0,Nonprofit/Gov,Admit
-1152,Female,False,3.31,STEM,Black,660.0,6.0,Investment Banking,Waitlist
+1152,Female,False,3.31,STEM,Black,660.0,6.0,Investment Banking,Admit
 1157,Male,True,3.32,Humanities,International,710.0,6.0,Nonprofit/Gov,Admit
 1158,Male,False,3.32,Business,Asian,770.0,5.0,Health Care,Admit
-1164,Male,False,3.24,Humanities,White,670.0,4.0,Investment Banking,Waitlist
+1164,Male,False,3.24,Humanities,White,670.0,4.0,Investment Banking,Admit
 1168,Male,False,3.47,STEM,Black,700.0,5.0,Nonprofit/Gov,Admit
 1170,Female,False,3.47,STEM,White,740.0,3.0,Technology,Admit
 1175,Female,True,3.31,STEM,International,680.0,6.0,Consulting,Admit
 1182,Female,False,3.26,STEM,White,720.0,4.0,Financial Services,Admit
 1187,Female,False,3.74,Humanities,White,760.0,4.0,Nonprofit/Gov,Admit
-1189,Male,False,3.38,Humanities,International,700.0,6.0,Consulting,Waitlist
+1189,Male,False,3.38,Humanities,International,700.0,6.0,Consulting,Admit
 1197,Male,False,3.5,STEM,Black,730.0,5.0,Other,Admit
 1199,Male,False,3.35,Humanities,Black,670.0,5.0,Other,Admit
 1218,Male,True,3.34,Humanities,International,660.0,5.0,Health Care,Admit
@@ -364,7 +364,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 1421,Male,False,3.51,Business,White,740.0,5.0,Investment Banking,Admit
 1447,Female,False,3.42,Humanities,Asian,720.0,6.0,Health Care,Admit
 1454,Male,True,3.58,Business,International,730.0,6.0,Other,Admit
-1457,Female,False,3.3,Humanities,Black,670.0,6.0,PE/VC,Waitlist
+1457,Female,False,3.3,Humanities,Black,670.0,6.0,PE/VC,Admit
 1458,Male,True,3.31,STEM,International,680.0,4.0,Consulting,Admit
 1463,Female,False,3.45,Humanities,Asian,690.0,5.0,Other,Admit
 1489,Male,True,3.22,Humanities,International,680.0,6.0,Technology,Admit
@@ -470,9 +470,9 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 2229,Male,False,3.61,Business,White,680.0,4.0,PE/VC,Admit
 2231,Male,False,3.62,Humanities,White,720.0,6.0,Consulting,Admit
 2246,Male,False,3.42,Humanities,Asian,660.0,6.0,Other,Admit
-2252,Male,False,3.33,Business,White,710.0,5.0,PE/VC,Waitlist
+2252,Male,False,3.33,Business,White,710.0,5.0,PE/VC,Admit
 2254,Male,False,3.35,Business,Asian,780.0,5.0,Financial Services,Admit
-2277,Male,False,3.38,Humanities,Black,740.0,4.0,Consulting,Waitlist
+2277,Male,False,3.38,Humanities,Black,740.0,4.0,Consulting,Admit
 2279,Male,True,3.58,STEM,International,700.0,5.0,Consulting,Admit
 2281,Male,True,3.33,STEM,International,690.0,5.0,Financial Services,Admit
 2289,Female,True,3.37,STEM,International,660.0,5.0,Other,Admit
@@ -480,7 +480,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 2296,Female,False,3.34,STEM,Black,680.0,6.0,PE/VC,Admit
 2297,Male,False,3.32,Business,Asian,660.0,7.0,Investment Banking,Admit
 2311,Male,False,3.33,Business,Hispanic,700.0,6.0,Consulting,Admit
-2314,Male,False,3.38,STEM,Hispanic,660.0,4.0,Other,Waitlist
+2314,Male,False,3.38,STEM,Hispanic,660.0,4.0,Other,Admit
 2334,Male,False,3.36,Business,Black,690.0,6.0,Other,Admit
 2345,Male,False,3.45,Humanities,White,690.0,5.0,Other,Admit
 2349,Female,False,3.36,Humanities,Black,670.0,4.0,Other,Admit
@@ -494,14 +494,14 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 2398,Female,False,3.35,Humanities,Black,730.0,5.0,Investment Banking,Admit
 2410,Female,True,3.45,Humanities,International,690.0,5.0,PE/VC,Admit
 2421,Male,False,3.39,Humanities,Black,700.0,5.0,Financial Services,Admit
-2443,Male,False,3.36,STEM,White,670.0,5.0,Financial Services,Waitlist
+2443,Male,False,3.36,STEM,White,670.0,5.0,Financial Services,Admit
 2461,Male,False,3.49,Humanities,White,660.0,5.0,PE/VC,Admit
 2467,Male,False,3.35,STEM,White,730.0,5.0,Consulting,Admit
-2482,Male,False,3.4,Business,Asian,750.0,6.0,Consulting,Waitlist
+2482,Male,False,3.4,Business,Asian,750.0,6.0,Consulting,Admit
 2490,Female,False,3.22,Humanities,White,680.0,6.0,Consulting,Admit
 2506,Male,True,3.29,Humanities,International,710.0,6.0,PE/VC,Admit
 2519,Female,False,3.23,STEM,Hispanic,660.0,4.0,Financial Services,Admit
-2522,Male,False,3.49,STEM,White,670.0,4.0,Consulting,Waitlist
+2522,Male,False,3.49,STEM,White,670.0,4.0,Consulting,Admit
 2533,Male,False,3.36,Humanities,Hispanic,740.0,6.0,Consulting,Admit
 2543,Male,False,3.29,STEM,Black,700.0,6.0,PE/VC,Admit
 2546,Male,False,3.46,Humanities,Asian,720.0,4.0,Nonprofit/Gov,Admit
@@ -516,16 +516,16 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 2619,Male,False,3.49,Business,White,720.0,5.0,Consulting,Admit
 2622,Female,False,3.53,Humanities,Asian,740.0,5.0,Consulting,Admit
 2636,Male,False,3.43,Humanities,International,710.0,5.0,Technology,Admit
-2646,Male,False,3.46,Humanities,White,760.0,5.0,Consulting,Waitlist
+2646,Male,False,3.46,Humanities,White,760.0,5.0,Consulting,Admit
 2648,Male,False,3.43,STEM,Hispanic,660.0,5.0,PE/VC,Admit
 2653,Male,False,3.3,Business,International,660.0,4.0,Investment Banking,Admit
 2654,Male,False,3.27,STEM,White,670.0,5.0,Other,Admit
 2657,Male,False,3.49,Humanities,Hispanic,690.0,6.0,Financial Services,Admit
 2658,Male,False,3.29,Business,Asian,690.0,5.0,Health Care,Admit
 2661,Male,True,3.55,Business,International,750.0,5.0,Consulting,Admit
-2662,Male,False,3.21,Humanities,Asian,700.0,6.0,Consulting,Waitlist
+2662,Male,False,3.21,Humanities,Asian,700.0,6.0,Consulting,Admit
 2672,Male,False,3.31,STEM,Asian,670.0,4.0,Consulting,Admit
-2677,Female,False,3.33,STEM,Black,700.0,5.0,Financial Services,Waitlist
+2677,Female,False,3.33,STEM,Black,700.0,5.0,Financial Services,Admit
 2678,Male,True,3.38,STEM,International,720.0,4.0,Investment Banking,Admit
 2682,Female,False,3.31,Humanities,Asian,660.0,5.0,Investment Banking,Admit
 2684,Female,False,3.44,Humanities,Asian,690.0,6.0,Technology,Admit
@@ -533,21 +533,21 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 2690,Female,False,3.37,STEM,Black,680.0,5.0,Consulting,Admit
 2693,Male,False,3.29,Humanities,White,670.0,5.0,Consulting,Admit
 2694,Male,False,3.37,STEM,Asian,680.0,5.0,Nonprofit/Gov,Admit
-2700,Male,False,3.31,STEM,White,680.0,6.0,Health Care,Waitlist
+2700,Male,False,3.31,STEM,White,680.0,6.0,Health Care,Admit
 2708,Male,False,3.38,Business,White,690.0,4.0,Nonprofit/Gov,Admit
 2715,Male,False,3.21,Business,White,670.0,5.0,Other,Admit
 2725,Female,False,3.42,Business,Asian,670.0,3.0,Technology,Admit
 2730,Female,False,3.36,Business,Black,680.0,4.0,Nonprofit/Gov,Admit
 2741,Female,False,3.25,STEM,Black,670.0,5.0,Technology,Admit
 2742,Male,False,3.38,Business,White,700.0,5.0,Consulting,Admit
-2743,Male,False,3.25,STEM,White,660.0,6.0,Consulting,Waitlist
+2743,Male,False,3.25,STEM,White,660.0,6.0,Consulting,Admit
 2746,Male,False,3.53,Business,Black,690.0,5.0,Consulting,Admit
 2764,Male,False,3.26,Business,Asian,680.0,6.0,Technology,Admit
 2767,Female,False,3.33,Humanities,White,660.0,5.0,Consulting,Admit
 2772,Male,True,3.31,Business,International,750.0,6.0,Consulting,Admit
 2775,Male,True,3.4,STEM,International,680.0,6.0,PE/VC,Admit
 2776,Male,True,3.39,Humanities,International,730.0,5.0,Consulting,Admit
-2781,Male,False,3.41,Business,Black,670.0,4.0,Technology,Waitlist
+2781,Male,False,3.41,Business,Black,670.0,4.0,Technology,Admit
 2786,Male,False,3.21,STEM,Asian,690.0,6.0,PE/VC,Admit
 2790,Male,False,3.53,Humanities,Hispanic,740.0,5.0,Consulting,Admit
 2798,Male,True,3.47,Humanities,International,770.0,5.0,Technology,Admit
@@ -555,7 +555,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 2803,Male,False,3.26,Humanities,White,670.0,4.0,Nonprofit/Gov,Admit
 2819,Male,False,3.5,STEM,White,680.0,5.0,Financial Services,Admit
 2827,Female,True,3.34,Business,International,720.0,5.0,Financial Services,Admit
-2830,Male,False,3.22,Humanities,Asian,710.0,4.0,Other,Waitlist
+2830,Male,False,3.22,Humanities,Asian,710.0,4.0,Other,Admit
 2854,Male,True,3.38,STEM,International,730.0,5.0,Consulting,Admit
 2860,Male,False,3.41,Humanities,White,670.0,5.0,Investment Banking,Admit
 2879,Female,False,3.35,Humanities,Asian,680.0,4.0,Other,Admit
@@ -604,7 +604,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3185,Female,False,3.23,Humanities,International,670.0,6.0,Consulting,Admit
 3208,Female,True,3.52,Humanities,International,670.0,7.0,Consulting,Admit
 3215,Female,False,3.56,Business,Asian,720.0,4.0,PE/VC,Admit
-3219,Male,False,3.28,STEM,International,660.0,6.0,PE/VC,Waitlist
+3219,Male,False,3.28,STEM,International,660.0,6.0,PE/VC,Admit
 3222,Female,False,3.37,Humanities,Asian,680.0,4.0,Health Care,Admit
 3225,Male,False,3.42,Humanities,Asian,780.0,5.0,Nonprofit/Gov,Admit
 3227,Female,True,3.39,Business,International,660.0,5.0,Other,Admit
@@ -613,9 +613,9 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3254,Female,False,3.33,STEM,Hispanic,680.0,5.0,Investment Banking,Admit
 3255,Female,False,3.27,Business,Hispanic,720.0,5.0,PE/VC,Admit
 3256,Female,True,3.31,Business,International,670.0,6.0,Investment Banking,Admit
-3265,Male,True,3.36,Business,International,670.0,5.0,Health Care,Waitlist
+3265,Male,True,3.36,Business,International,670.0,5.0,Health Care,Admit
 3280,Male,True,3.27,STEM,International,780.0,4.0,Consulting,Admit
-3281,Male,False,3.31,Business,Black,780.0,4.0,Technology,Waitlist
+3281,Male,False,3.31,Business,Black,780.0,4.0,Technology,Admit
 3296,Male,False,3.56,Humanities,Hispanic,740.0,5.0,Consulting,Admit
 3300,Male,True,3.43,STEM,International,700.0,6.0,PE/VC,Admit
 3309,Female,False,3.43,Business,White,730.0,4.0,Nonprofit/Gov,Admit
@@ -627,7 +627,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3360,Male,False,3.32,Humanities,Asian,740.0,4.0,Consulting,Admit
 3362,Male,True,3.48,Business,International,660.0,6.0,Technology,Admit
 3364,Male,True,3.36,Business,International,770.0,4.0,PE/VC,Admit
-3380,Male,False,3.44,STEM,Black,670.0,7.0,Nonprofit/Gov,Waitlist
+3380,Male,False,3.44,STEM,Black,670.0,7.0,Nonprofit/Gov,Admit
 3394,Female,False,3.53,Humanities,Hispanic,780.0,6.0,Nonprofit/Gov,Admit
 3397,Male,False,3.27,STEM,International,670.0,5.0,Financial Services,Admit
 3409,Female,True,3.24,STEM,International,740.0,5.0,Other,Admit
@@ -635,14 +635,14 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3411,Male,False,3.38,Humanities,White,720.0,5.0,Investment Banking,Admit
 3443,Female,False,3.67,Humanities,Black,720.0,6.0,Consulting,Admit
 3444,Female,False,3.31,Humanities,White,690.0,5.0,Consulting,Admit
-3446,Male,False,3.25,Humanities,White,700.0,5.0,Investment Banking,Waitlist
+3446,Male,False,3.25,Humanities,White,700.0,5.0,Investment Banking,Admit
 3450,Male,False,3.45,Business,White,770.0,7.0,Consulting,Admit
 3458,Male,True,3.23,Business,International,680.0,5.0,Consulting,Admit
 3463,Female,False,3.4,Humanities,Asian,690.0,5.0,Nonprofit/Gov,Admit
 3486,Female,False,3.51,Humanities,Hispanic,710.0,6.0,Health Care,Admit
 3487,Male,True,3.29,Business,International,670.0,4.0,Other,Admit
 3495,Male,False,3.51,Humanities,White,700.0,6.0,Consulting,Admit
-3506,Male,True,3.27,STEM,International,670.0,5.0,Consulting,Waitlist
+3506,Male,True,3.27,STEM,International,670.0,5.0,Consulting,Admit
 3516,Female,False,3.36,Humanities,Black,710.0,5.0,Consulting,Admit
 3533,Female,False,3.28,Humanities,White,670.0,8.0,Consulting,Admit
 3539,Male,False,3.54,STEM,Hispanic,740.0,5.0,Health Care,Admit
@@ -653,7 +653,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3577,Female,False,3.3,Humanities,Hispanic,660.0,4.0,Financial Services,Admit
 3578,Male,False,3.4,Business,Hispanic,670.0,4.0,PE/VC,Admit
 3582,Male,False,3.28,Business,Asian,720.0,5.0,PE/VC,Admit
-3592,Male,True,3.53,Business,International,730.0,4.0,PE/VC,Waitlist
+3592,Male,True,3.53,Business,International,730.0,4.0,PE/VC,Admit
 3594,Female,False,3.35,Humanities,White,700.0,5.0,PE/VC,Admit
 3598,Male,True,3.35,Humanities,International,730.0,6.0,Other,Admit
 3613,Female,False,3.29,Humanities,Asian,740.0,4.0,PE/VC,Admit
@@ -666,13 +666,13 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3664,Male,True,3.28,Business,International,660.0,6.0,Financial Services,Admit
 3682,Male,False,3.28,Business,Black,700.0,5.0,Technology,Admit
 3704,Female,False,3.42,STEM,Black,690.0,5.0,Investment Banking,Admit
-3738,Female,False,3.31,Business,Black,660.0,4.0,Consulting,Waitlist
+3738,Female,False,3.31,Business,Black,660.0,4.0,Consulting,Admit
 3747,Female,True,3.22,Business,International,700.0,4.0,Other,Admit
 3749,Male,False,3.28,Business,Asian,750.0,3.0,Other,Admit
 3760,Male,False,3.28,Business,Asian,660.0,6.0,Investment Banking,Admit
 3762,Male,True,3.24,STEM,International,680.0,4.0,Investment Banking,Admit
 3764,Male,False,3.25,STEM,Asian,670.0,5.0,Nonprofit/Gov,Admit
-3777,Male,True,3.28,Business,International,660.0,4.0,Financial Services,Waitlist
+3777,Male,True,3.28,Business,International,660.0,4.0,Financial Services,Admit
 3780,Female,True,3.27,Business,International,680.0,3.0,PE/VC,Admit
 3781,Male,False,3.58,Business,Asian,760.0,5.0,Consulting,Admit
 3784,Male,True,3.28,Humanities,International,680.0,6.0,Consulting,Admit
@@ -704,8 +704,8 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 3998,Male,False,3.24,STEM,White,680.0,7.0,Technology,Admit
 4018,Male,False,3.63,Humanities,Asian,760.0,3.0,Consulting,Admit
 4024,Female,False,3.36,STEM,Asian,690.0,5.0,Other,Admit
-4025,Male,False,3.32,STEM,Asian,690.0,4.0,PE/VC,Waitlist
-4029,Female,False,3.43,Humanities,Hispanic,690.0,5.0,Consulting,Waitlist
+4025,Male,False,3.32,STEM,Asian,690.0,4.0,PE/VC,Admit
+4029,Female,False,3.43,Humanities,Hispanic,690.0,5.0,Consulting,Admit
 4030,Female,False,3.38,Humanities,Asian,700.0,4.0,Financial Services,Admit
 4031,Male,False,3.29,Humanities,Asian,690.0,6.0,Technology,Admit
 4049,Male,False,3.45,STEM,White,660.0,7.0,Nonprofit/Gov,Admit
@@ -718,7 +718,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4100,Female,True,3.46,Business,International,700.0,4.0,Nonprofit/Gov,Admit
 4101,Male,False,3.32,Humanities,White,760.0,5.0,Consulting,Admit
 4102,Female,False,3.34,Humanities,Asian,720.0,6.0,PE/VC,Admit
-4105,Male,False,3.24,STEM,Black,680.0,5.0,Nonprofit/Gov,Waitlist
+4105,Male,False,3.24,STEM,Black,680.0,5.0,Nonprofit/Gov,Admit
 4133,Female,False,3.41,Humanities,White,780.0,5.0,PE/VC,Admit
 4144,Male,False,3.34,Humanities,Asian,670.0,5.0,PE/VC,Admit
 4145,Male,False,3.21,STEM,Asian,670.0,5.0,Technology,Admit
@@ -727,7 +727,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4153,Female,True,3.32,Humanities,International,660.0,5.0,Investment Banking,Admit
 4155,Female,True,3.38,Humanities,International,700.0,6.0,PE/VC,Admit
 4161,Male,True,3.28,STEM,International,670.0,5.0,PE/VC,Admit
-4171,Male,False,3.34,Humanities,Asian,670.0,5.0,Health Care,Waitlist
+4171,Male,False,3.34,Humanities,Asian,670.0,5.0,Health Care,Admit
 4180,Female,True,3.23,Business,International,670.0,5.0,Investment Banking,Admit
 4190,Female,False,3.4,STEM,Asian,710.0,6.0,Consulting,Admit
 4191,Female,True,3.39,Humanities,International,740.0,5.0,Investment Banking,Admit
@@ -746,7 +746,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4275,Male,False,3.25,Humanities,International,720.0,4.0,Investment Banking,Admit
 4278,Female,False,3.27,STEM,Asian,700.0,6.0,Other,Admit
 4282,Female,True,3.36,Business,International,690.0,4.0,Nonprofit/Gov,Admit
-4283,Male,True,3.38,Humanities,International,660.0,3.0,Nonprofit/Gov,Waitlist
+4283,Male,True,3.38,Humanities,International,660.0,3.0,Nonprofit/Gov,Admit
 4288,Male,False,3.29,Business,International,670.0,5.0,Nonprofit/Gov,Admit
 4289,Male,False,3.62,Business,Asian,760.0,5.0,Consulting,Admit
 4291,Female,True,3.46,Humanities,International,680.0,6.0,Investment Banking,Admit
@@ -762,7 +762,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4357,Male,False,3.48,Business,Black,690.0,6.0,PE/VC,Admit
 4361,Female,False,3.55,Humanities,Black,690.0,7.0,Consulting,Admit
 4370,Female,False,3.55,Business,Asian,700.0,6.0,PE/VC,Admit
-4386,Male,False,3.47,STEM,White,760.0,5.0,Other,Waitlist
+4386,Male,False,3.47,STEM,White,760.0,5.0,Other,Admit
 4391,Male,True,3.34,Humanities,International,670.0,4.0,Investment Banking,Admit
 4393,Male,False,3.25,Business,White,690.0,7.0,Investment Banking,Admit
 4398,Female,False,3.44,STEM,Asian,700.0,6.0,Consulting,Admit
@@ -778,7 +778,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4476,Male,False,3.27,Humanities,White,700.0,3.0,Health Care,Admit
 4478,Male,False,3.44,Business,Black,710.0,5.0,PE/VC,Admit
 4486,Male,True,3.36,Humanities,International,710.0,2.0,Other,Admit
-4488,Male,False,3.29,Humanities,White,670.0,6.0,Other,Waitlist
+4488,Male,False,3.29,Humanities,White,670.0,6.0,Other,Admit
 4492,Male,True,3.4,Business,International,670.0,4.0,Financial Services,Admit
 4497,Male,True,3.31,Humanities,International,680.0,5.0,Other,Admit
 4498,Male,False,3.31,STEM,International,680.0,5.0,Other,Admit
@@ -789,7 +789,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4546,Male,False,3.29,Business,White,670.0,5.0,Nonprofit/Gov,Admit
 4559,Female,True,3.7,Business,International,740.0,5.0,PE/VC,Admit
 4562,Female,True,3.34,Business,International,730.0,5.0,Other,Admit
-4569,Male,False,3.22,Humanities,White,700.0,7.0,Financial Services,Waitlist
+4569,Male,False,3.22,Humanities,White,700.0,7.0,Financial Services,Admit
 4584,Male,False,3.29,STEM,White,660.0,3.0,Consulting,Admit
 4597,Male,True,3.51,Humanities,International,720.0,4.0,Other,Admit
 4602,Male,False,3.21,Business,Black,680.0,6.0,Consulting,Admit
@@ -801,7 +801,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4658,Male,False,3.39,Business,White,710.0,5.0,Nonprofit/Gov,Admit
 4659,Female,False,3.33,Humanities,Asian,680.0,6.0,PE/VC,Admit
 4670,Male,False,3.5,STEM,Asian,690.0,3.0,Other,Admit
-4680,Male,False,3.45,Humanities,Asian,710.0,5.0,Investment Banking,Waitlist
+4680,Male,False,3.45,Humanities,Asian,710.0,5.0,Investment Banking,Admit
 4696,Male,False,3.28,Business,Black,720.0,5.0,Consulting,Admit
 4699,Male,True,3.5,Business,International,680.0,5.0,Other,Admit
 4718,Male,False,3.33,Humanities,Asian,670.0,6.0,PE/VC,Admit
@@ -811,7 +811,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4744,Female,False,3.36,Business,Hispanic,700.0,6.0,Nonprofit/Gov,Admit
 4749,Male,False,3.51,Business,Black,780.0,4.0,Consulting,Admit
 4753,Male,True,3.23,STEM,International,680.0,5.0,Investment Banking,Admit
-4756,Male,False,3.43,Humanities,Asian,690.0,4.0,Nonprofit/Gov,Waitlist
+4756,Male,False,3.43,Humanities,Asian,690.0,4.0,Nonprofit/Gov,Admit
 4768,Female,True,3.55,Business,International,700.0,4.0,Consulting,Admit
 4770,Female,False,3.27,STEM,Asian,700.0,5.0,Consulting,Admit
 4776,Male,False,3.25,Business,International,720.0,4.0,Consulting,Admit
@@ -823,7 +823,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4826,Male,False,3.59,STEM,White,780.0,4.0,Consulting,Admit
 4833,Female,True,3.61,Humanities,International,680.0,4.0,Consulting,Admit
 4844,Male,False,3.33,Humanities,Asian,720.0,5.0,Other,Admit
-4849,Male,False,3.48,STEM,Hispanic,660.0,5.0,Consulting,Waitlist
+4849,Male,False,3.48,STEM,Hispanic,660.0,5.0,Consulting,Admit
 4861,Female,False,3.4,Humanities,White,690.0,5.0,Other,Admit
 4883,Female,False,3.25,Humanities,Asian,730.0,5.0,Financial Services,Admit
 4885,Female,True,3.39,Humanities,International,740.0,7.0,Other,Admit
@@ -835,7 +835,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 4926,Male,False,3.56,Humanities,Hispanic,670.0,6.0,Consulting,Admit
 4928,Male,False,3.41,Humanities,Asian,670.0,6.0,Financial Services,Admit
 4930,Female,False,3.27,Humanities,Black,660.0,5.0,Consulting,Admit
-4938,Female,False,3.48,Humanities,Black,710.0,5.0,Consulting,Waitlist
+4938,Female,False,3.48,Humanities,Black,710.0,5.0,Consulting,Admit
 4944,Female,False,3.36,Business,International,700.0,6.0,Consulting,Admit
 4945,Male,False,3.37,Business,White,660.0,6.0,PE/VC,Admit
 4950,Male,False,3.26,Humanities,White,660.0,5.0,PE/VC,Admit
@@ -854,7 +854,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5056,Female,False,3.39,STEM,White,690.0,5.0,Technology,Admit
 5068,Female,False,3.34,Humanities,Black,740.0,4.0,Consulting,Admit
 5085,Male,False,3.48,Humanities,International,750.0,4.0,Investment Banking,Admit
-5093,Male,True,3.22,Humanities,International,680.0,5.0,Investment Banking,Waitlist
+5093,Male,True,3.22,Humanities,International,680.0,5.0,Investment Banking,Admit
 5095,Female,False,3.38,Humanities,White,780.0,6.0,Consulting,Admit
 5115,Male,True,3.54,STEM,International,670.0,5.0,Technology,Admit
 5131,Female,False,3.44,Humanities,Asian,730.0,7.0,Technology,Admit
@@ -879,17 +879,17 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5275,Female,False,3.35,Humanities,Hispanic,670.0,3.0,Nonprofit/Gov,Admit
 5285,Male,False,3.29,Humanities,Asian,670.0,7.0,Financial Services,Admit
 5289,Male,False,3.44,Business,Black,760.0,5.0,Consulting,Admit
-5296,Male,False,3.26,STEM,Asian,720.0,3.0,Consulting,Waitlist
+5296,Male,False,3.26,STEM,Asian,720.0,3.0,Consulting,Admit
 5308,Male,False,3.34,STEM,Black,680.0,5.0,Investment Banking,Admit
 5315,Female,False,3.41,Business,Asian,660.0,5.0,Consulting,Admit
 5318,Male,False,3.44,Humanities,Hispanic,730.0,3.0,Consulting,Admit
-5324,Male,True,3.34,Humanities,International,670.0,6.0,Financial Services,Waitlist
+5324,Male,True,3.34,Humanities,International,670.0,6.0,Financial Services,Admit
 5337,Female,False,3.27,STEM,Black,660.0,7.0,PE/VC,Admit
 5340,Female,False,3.41,Humanities,White,780.0,3.0,Consulting,Admit
 5343,Male,True,3.43,Humanities,International,710.0,4.0,Other,Admit
 5356,Female,False,3.22,Humanities,Black,660.0,7.0,Financial Services,Admit
 5358,Male,True,3.52,STEM,International,780.0,6.0,Technology,Admit
-5363,Male,False,3.45,Business,Asian,740.0,6.0,Consulting,Waitlist
+5363,Male,False,3.45,Business,Asian,740.0,6.0,Consulting,Admit
 5365,Female,True,3.41,Business,International,660.0,6.0,Consulting,Admit
 5370,Female,True,3.54,Humanities,International,780.0,5.0,Investment Banking,Admit
 5373,Female,False,3.23,Business,Black,660.0,6.0,Consulting,Admit
@@ -903,14 +903,14 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5467,Male,False,3.27,Humanities,Asian,690.0,5.0,Other,Admit
 5473,Male,True,3.22,Humanities,International,680.0,5.0,Financial Services,Admit
 5477,Male,False,3.22,Humanities,White,660.0,5.0,Technology,Admit
-5479,Male,True,3.31,Humanities,International,680.0,5.0,Technology,Waitlist
+5479,Male,True,3.31,Humanities,International,680.0,5.0,Technology,Admit
 5484,Female,False,3.5,Humanities,White,750.0,5.0,Technology,Admit
 5499,Male,False,3.43,Humanities,Asian,660.0,6.0,Consulting,Admit
 5519,Male,True,3.27,STEM,International,660.0,3.0,Investment Banking,Admit
 5524,Male,False,3.27,Business,White,660.0,5.0,Consulting,Admit
 5528,Male,True,3.3,Humanities,International,700.0,4.0,Consulting,Admit
 5540,Female,True,3.36,STEM,International,760.0,5.0,Financial Services,Admit
-5545,Male,True,3.49,STEM,International,700.0,5.0,Nonprofit/Gov,Waitlist
+5545,Male,True,3.49,STEM,International,700.0,5.0,Nonprofit/Gov,Admit
 5550,Female,False,3.57,Business,White,720.0,5.0,Investment Banking,Admit
 5557,Female,True,3.42,Humanities,International,690.0,4.0,Other,Admit
 5561,Female,False,3.37,Business,White,670.0,7.0,Consulting,Admit
@@ -946,7 +946,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5771,Male,True,3.3,Humanities,International,670.0,5.0,PE/VC,Admit
 5792,Male,True,3.66,Humanities,International,680.0,5.0,Technology,Admit
 5796,Male,False,3.25,Business,Black,670.0,7.0,Consulting,Admit
-5802,Male,False,3.27,STEM,Asian,670.0,5.0,Financial Services,Waitlist
+5802,Male,False,3.27,STEM,Asian,670.0,5.0,Financial Services,Admit
 5816,Male,False,3.31,Humanities,Asian,710.0,6.0,Financial Services,Admit
 5819,Male,True,3.32,STEM,International,670.0,7.0,Investment Banking,Admit
 5823,Male,False,3.4,Humanities,White,690.0,5.0,Technology,Admit
@@ -954,7 +954,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5830,Male,True,3.4,Humanities,International,680.0,5.0,Consulting,Admit
 5832,Female,False,3.29,STEM,White,660.0,6.0,Health Care,Admit
 5835,Male,True,3.36,Humanities,International,690.0,6.0,PE/VC,Admit
-5836,Male,False,3.56,STEM,Hispanic,770.0,5.0,Financial Services,Waitlist
+5836,Male,False,3.56,STEM,Hispanic,770.0,5.0,Financial Services,Admit
 5850,Male,True,3.37,Business,International,730.0,6.0,Technology,Admit
 5851,Female,False,3.25,Business,White,670.0,4.0,Other,Admit
 5853,Male,False,3.27,STEM,White,700.0,5.0,Consulting,Admit
@@ -962,7 +962,7 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5868,Male,False,3.46,Business,International,730.0,4.0,PE/VC,Admit
 5869,Female,True,3.55,Humanities,International,740.0,6.0,Financial Services,Admit
 5884,Female,False,3.24,STEM,White,680.0,5.0,Consulting,Admit
-5891,Male,True,3.21,STEM,International,670.0,5.0,Nonprofit/Gov,Waitlist
+5891,Male,True,3.21,STEM,International,670.0,5.0,Nonprofit/Gov,Admit
 5899,Female,True,3.31,Humanities,International,660.0,5.0,Consulting,Admit
 5910,Male,False,3.66,Business,White,770.0,5.0,Other,Admit
 5925,Female,False,3.46,Humanities,Hispanic,670.0,5.0,Consulting,Admit
@@ -976,14 +976,14 @@ application_id,gender,international,gpa,major,race,gmat,work_exp,work_industry,a
 5993,Female,False,3.44,STEM,White,720.0,5.0,Nonprofit/Gov,Admit
 5995,Female,False,3.27,STEM,Asian,660.0,4.0,Consulting,Admit
 5997,Female,False,3.23,Business,Black,710.0,5.0,Nonprofit/Gov,Admit
-6007,Male,False,3.43,Business,Asian,670.0,3.0,Consulting,Waitlist
+6007,Male,False,3.43,Business,Asian,670.0,3.0,Consulting,Admit
 6019,Male,True,3.47,Business,International,770.0,6.0,Financial Services,Admit
 6033,Male,True,3.26,STEM,International,660.0,5.0,Consulting,Admit
-6035,Male,True,3.42,Business,International,670.0,4.0,Consulting,Waitlist
+6035,Male,True,3.42,Business,International,670.0,4.0,Consulting,Admit
 6047,Male,False,3.41,STEM,White,710.0,5.0,Technology,Admit
 6051,Male,False,3.42,Humanities,White,670.0,5.0,Investment Banking,Admit
 6071,Female,True,3.24,STEM,International,680.0,6.0,Investment Banking,Admit
-6089,Male,True,3.33,STEM,International,710.0,5.0,Other,Waitlist
+6089,Male,True,3.33,STEM,International,710.0,5.0,Other,Admit
 6090,Male,False,3.5,STEM,White,700.0,3.0,Consulting,Admit
 6093,Male,False,3.54,Humanities,White,700.0,6.0,Consulting,Admit
 6101,Male,False,3.38,STEM,Asian,700.0,7.0,Financial Services,Admit
